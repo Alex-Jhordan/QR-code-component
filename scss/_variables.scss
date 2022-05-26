@@ -1,0 +1,34 @@
+/* Front-end Style Guide
+
+Layout
+
+The designs were created to the following widths:
+
+- Mobile: 375px
+- Desktop: 1440px
+
+*/
+
+// Colors
+
+// Background colors
+$bg-principal-color: hsl(212, 45%, 89%); // Light gray
+$bg-secondary-color: hsl(0, 0%, 100%); // White
+
+// Font colors
+$headings-color : hsl(218, 44%, 22%); // Dark blue
+$paragraph-color : hsl(220, 15%, 55%); // Grayish blue
+
+
+// Typography
+
+// Body Copy
+$font-size-paragraph: 15px;
+
+
+// Font
+
+// Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+// Weights: 400, 700
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
