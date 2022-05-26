@@ -22,7 +22,7 @@ The designs were created to the following widths:
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  gap: 1.5rem;
+  gap: 2rem;
 }
 
 .component__image-qr-code {
