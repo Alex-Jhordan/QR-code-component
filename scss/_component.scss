@@ -2,11 +2,11 @@
     width: 85%;
     max-width: 320px;
     background-color: $bg-secondary-color;
-    padding: 1rem 1rem 5rem;
+    padding: 1rem 1rem 2.5rem;
     border-radius: 15px;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1.5rem;
 
     &__image-qr-code {
         width: 100%;
@@ -16,7 +16,7 @@
     &__texts {
         display: flex;
         flex-direction: column;
-        gap: 1.5rem;
+        gap: 1rem;
     }
 
     &__heading {
