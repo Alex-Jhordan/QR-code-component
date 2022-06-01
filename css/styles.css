@@ -74,8 +74,14 @@ The designs were created to the following widths:
 }
 
 .attribution {
+  font-size: 11px;
   position: fixed;
   bottom: 20px;
+  color: #1f3251;
+}
+
+.attribution__link {
+  color: #7b879d;
 }
 
 * {

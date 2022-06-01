@@ -44,6 +44,12 @@
 }
 
 .attribution {
+    font-size: 11px;
     position: fixed;
     bottom: 20px;
+    color: $headings-color;
+
+    &__link {
+        color: $paragraph-color;
+    }
 }
